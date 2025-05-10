@@ -1,0 +1,11 @@
+streamlit==1.32.0
+google-generativeai==0.3.2
+python-dotenv==1.0.1
+jinja2==3.1.3
+
+# myenv\Scripts\activate
+
+# //On 20 March Dhaval Patel purchased desktop and CPU which have price respectively 799 and 800
+# On 20 March Dhaval Patel purchased desktop  in rupess 800   and 900 for mobile and 9558067193
+# On20March2025lpurchaseddesktopinrupess800and900formobileand9558067193DhavalPatel
+# create invoice for BH IT HUB and invoice number is #003 with an amount of 2000 + 18% gst rate
