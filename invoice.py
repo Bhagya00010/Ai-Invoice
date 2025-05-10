@@ -1156,7 +1156,7 @@ import re
 
 # Load environment variables
 load_dotenv()
-API_KEY = os.getenv("GOOGLE_API_KEY")
+API_KEY = st.secrets["GOOGLE_API_KEY"]
 if not API_KEY:
     st.error("API key not found. Please check your .env file.")
     st.stop()
