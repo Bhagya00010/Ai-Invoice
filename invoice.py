@@ -199,8 +199,8 @@ def landing_page():
         st.rerun()
 
     # Simple, clean design layout
-  st.markdown("""
-    <div style="text-align: center; margin-top: 40px; background-color: black; padding: 20px; border-radius: 10px;">
+    st.markdown("""
+      <div style="text-align: center; margin-top: 40px; background-color: black; padding: 20px; border-radius: 10px;">
         <h2 style="font-size: 28px; color: orange">Automate Your Invoice Generation Process</h2>
         <p style="font-size: 16px; color: white;">Easily generate invoices from raw customer input. Just paste the text, and let AI do the rest!</p>
         <h3 style="font-size: 20px; color: #4CAF50;">Key Features:</h3>
@@ -210,8 +210,8 @@ def landing_page():
             <li>✅ Generate professional invoices ready for download</li>
         </ul>
         <br/>
-    </div>
-    """, unsafe_allow_html=True)
+      </div>
+     """, unsafe_allow_html=True)
 
 
    # How it Works: Simple layout with clean visuals
